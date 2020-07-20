@@ -1,1 +1,1 @@
-diavolik.githab.io
+diavolik.github.io
