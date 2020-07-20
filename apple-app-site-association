@@ -1,0 +1,19 @@
+{
+	"applinks": {
+		"apps": [],
+		"details": [
+			{
+				"appID": "5WDA7SJ9RC.ru.unotex.svekla.dev",
+				"paths": [
+					" * "
+				]
+			},
+			{
+				"appID": "5WDA7SJ9RC.ru.unotex.svekla",
+				"paths": [
+					"*"
+				]
+			}
+		]
+	}
+}
