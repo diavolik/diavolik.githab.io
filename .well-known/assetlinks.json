@@ -1,0 +1,29 @@
+[
+	{
+	  "relation": ["delegate_permission/common.handle_all_urls"],
+	  "target": {
+	    "namespace": "android_app",
+	    "package_name": "ru.unotex.svekla",
+	    "sha256_cert_fingerprints":
+	    ["9B:DE:AE:CD:4D:FA:48:E0:EA:D9:BD:3F:A1:C2:B6:EE:99:0A:FB:BB:AA:DF:FB:3B:10:7D:F3:28:6C:4C:FA:38"]
+	  }
+	},
+	{
+	  "relation": ["delegate_permission/common.handle_all_urls"],
+	  "target": {
+	    "namespace": "android_app",
+	    "package_name": "ru.unotex.svekla.dev",
+	    "sha256_cert_fingerprints":
+	    ["9B:DE:AE:CD:4D:FA:48:E0:EA:D9:BD:3F:A1:C2:B6:EE:99:0A:FB:BB:AA:DF:FB:3B:10:7D:F3:28:6C:4C:FA:38"]
+	  }
+	},
+	{
+  		"relation": ["delegate_permission/common.handle_all_urls"],
+  		"target": {
+    	"namespace": "android_app",
+    	"package_name": "ru.rusatom.sakhalin.citizen",
+    	"sha256_cert_fingerprints":
+    	["1B:E5:36:64:3D:6A:84:EB:F5:3A:FF:61:D5:96:2D:2D:10:5A:FA:31:15:09:B0:68:6D:1A:D2:C9:3A:1C:52:46"]
+  		}
+	}
+]
