@@ -18,12 +18,15 @@
 	  }
 	},
 	{
-  		"relation": ["delegate_permission/common.handle_all_urls"],
-  		"target": {
-    	"namespace": "android_app",
-    	"package_name": "ru.rusatom.sakhalin.citizen",
-    	"sha256_cert_fingerprints":
-    	["1B:E5:36:64:3D:6A:84:EB:F5:3A:FF:61:D5:96:2D:2D:10:5A:FA:31:15:09:B0:68:6D:1A:D2:C9:3A:1C:52:46"]
-  		}
-	}
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ru.rusatom.sakhalin.citizen",
+      "sha256_cert_fingerprints": [
+        "1B:E5:36:64:3D:6A:84:EB:F5:3A:FF:61:D5:96:2D:2D:10:5A:FA:31:15:09:B0:68:6D:1A:D2:C9:3A:1C:52:46"
+      ]
+    }
+  }
 ]
