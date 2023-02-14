@@ -25,8 +25,7 @@
       "namespace": "android_app",
       "package_name": "ru.rusatom.sakhalin.citizen",
       "sha256_cert_fingerprints": [
-        "1B:E5:36:64:3D:6A:84:EB:F5:3A:FF:61:D5:96:2D:2D:10:5A:FA:31:15:09:B0:68:6D:1A:D2:C9:3A:1C:52:46",
-	 "59:E0:9F:56:08:6C:CC:D2:8C:C9:38:0E:6E:30:AD:5B:9F:08:A2:DB:43:41:1C:A6:56:5B:E3:07:E8:23:40:70"
+        "1B:E5:36:64:3D:6A:84:EB:F5:3A:FF:61:D5:96:2D:2D:10:5A:FA:31:15:09:B0:68:6D:1A:D2:C9:3A:1C:52:46"
       ]
     }
   }
